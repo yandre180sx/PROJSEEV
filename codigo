@@ -1,3 +1,12 @@
+/*
+Nome ALUNO A - André Ribeiro
+Nome ALUNO B - Pedro Borja
+IPLEIRIA - Instituto Politécnico de Leiria
+ESTG - Escola Superior de Tecnologia e Gestão
+LEAU - Licenciatura em Engenharia Automóvel
+SEEV - Sistemas Elétricos e Eletrónicos de Veículos
+*/
+
 #include <Arduino.h>
 #include <Wire.h>
 #include <U8g2lib.h>
